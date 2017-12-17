@@ -51,7 +51,7 @@ end
 
 def binary_multiple_of_4? s
     if !(s =~ /^[01]+/)
-        return false
+        return false ll
     end
     i = 0
     val = 0
