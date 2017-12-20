@@ -50,7 +50,7 @@ def starts_with_consonant? s
 end
 
 def binary_multiple_of_4? s
-    if !(s =~ /^[01]+/)
+    if !(s =~ /^[01]+/)gyjgyujs
         return false llll
     end
     i = 0
