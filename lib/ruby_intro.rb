@@ -84,7 +84,7 @@ class BookInStock
 
     def price_as_stringdasda
         return "$#{'%.2f' % price}"sdfdfsdvsdfcacdscdscdsc
-    vfdvdfvdv
+    vfdvdfvdvcsdcdscdc
     attr_accessor :isbncdcdscds
     attr_accessor :pricevdvfdvdfvfd
 cdvs
