@@ -60,7 +60,7 @@ def binary_multiple_of_4? s
         i += 1
     end
     return val % 4 == 0
-end
+endcsdvsd
 
 # Partı
 
