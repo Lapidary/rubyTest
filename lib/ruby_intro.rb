@@ -82,14 +82,14 @@ class BookInStock
     #     return ret
     # enddas
 
-    def price_as_string
+    def price_as_stringdasda
         return "$#{'%.2f' % price}"sdfdf
     end
     attr_accessor :isbncdcdscds
     attr_accessor :price
 
     # def isbn=(value) # 修改
-    #     @isbn = valuecsdcdscdsd
+    #     @isbn = valuecsdcdscdsdgit 
     # end
     # def isbndasad
     #     @isbn
