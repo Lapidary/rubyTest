@@ -80,7 +80,7 @@ class BookInStock
     #         ret += "0"
     #     end
     #     return ret
-    # end
+    # enddas
 
     def price_as_string
         return "$#{'%.2f' % price}"
@@ -91,7 +91,7 @@ class BookInStock
     # def isbn=(value) # 修改
     #     @isbn = value
     # end
-    # def isbn
+    # def isbndasad
     #     @isbn
     # end
     # def price=(value) # 修改
