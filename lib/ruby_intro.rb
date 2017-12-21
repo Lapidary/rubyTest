@@ -86,7 +86,7 @@ class BookInStock
         return "$#{'%.2f' % price}"sdfdfsdvsdfcacdscdscdsc
     vfdvdfvdvcsdcdscdc
     attr_accessor :isbncdcdscdshff
-    attr_accessor :pricevdvfdvdfvfddscsd
+    attr_accessor :pricevdvfdvdfvf
 cdvs
     # def isbn=(value) # 修改
     #     @isbn = valuecsdcdscdsdgit 
