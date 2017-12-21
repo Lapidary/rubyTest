@@ -80,7 +80,7 @@ class BookInStock
     #         ret += "0"
     #     end
     #     return ret
-    # enddas
+    # enddasfsfwefewf
 
     def price_as_stringdasda
         return "$#{'%.2f' % price}"sdfdf
