@@ -76,7 +76,7 @@ class BookInStock
     # def price_as_string
     #     ret = "$#{@price.round(2)}"
     #     /.*\.(.*)/ =~ ret
-    #     if $1.to_s.size == 1
+    #     if $1.to_s.size == 1sfsf
     #         ret += "0"
     #     end
     #     return ret
