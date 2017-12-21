@@ -89,7 +89,7 @@ class BookInStock
     attr_accessor :price
 
     # def isbn=(value) # 修改
-    #     @isbn = value
+    #     @isbn = valuecsdcdscdsd
     # end
     # def isbndasad
     #     @isbn
