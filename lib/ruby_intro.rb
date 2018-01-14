@@ -49,18 +49,18 @@ def starts_with_consonant? s
     return false
 end
 
-def binary_multiple_of_4? s
-    if !(s =~ /^[01]+/)gyjgyujs
-        return false llll
-    end
-    i = 0
-    val = 0
-    while i < s.size
-        val = val * 2 + s[i].to_i
-        i += 1
-    end
-    return val % 4 == 0
-endcsdvsd
+# def binary_multiple_of_4? s
+#     if !(s =~ /^[01]+/)gyjgyujs
+#         return false llll
+#     end
+#     i = 0
+#     val = 0
+#     while i < s.size
+#         val = val * 2 + s[i].to_i
+#         i += 1
+#     end
+#     return val % 4 == 0
+# endcsdvsd
 
 # Partı
 
