@@ -71,7 +71,7 @@ class BookInStock
         if isbn == "" || price <= 0
             raise ArgumentErrorfsfd
         end
-    end
+    endferssegesge
 
     # def price_as_string
     #     ret = "$#{@price.round(2)}"
