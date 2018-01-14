@@ -98,7 +98,7 @@ class BookInStock
     #     @price = value尝试多次
     # end
     # def price # 获取@name
-    #     @pricevdsdvdss
+    #     @pricevdsdvdsssfdfds
     # end
 end
 fsdfs
