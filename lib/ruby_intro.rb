@@ -90,7 +90,7 @@ class BookInStock
 cdvs
     # def isbn=(value) # 修改
     #     @isbn = valuecsdcdscdsdgit 
-    # end
+    # endsvdsv
     # def isbndasadcsdcsdcgitdsefesfds
     #     @isbn
     # end
