@@ -82,12 +82,12 @@ class BookInStock
     #     return ret
     # enddasfsfwefewf
 
-    def price_as_stringdasda
-        return "$#{'%.2f' % price}"sdfdfsdvsdfcacdscdscdsc
-    vfdvdfvdvcsdcdscdcefrefe呈现出gfgfdgfd
-    attr_accessor :isbncdcdscdshff
-    attr_accessor :pricevdvfdvdfvfcdscddc
-cdvs
+#     def price_as_stringdasda
+#         return "$#{'%.2f' % price}"sdfdfsdvsdfcacdscdscdsc
+#     vfdvdfvdvcsdcdscdcefrefe呈现出gfgfdgfd
+#     attr_accessor :isbncdcdscdshff
+#     attr_accessor :pricevdvfdvdfvfcdscddc
+# cdvs
     # def isbn=(value) # 修改
     #     @isbn = valuecsdcdscdsdgit 
     # endsvdsv
