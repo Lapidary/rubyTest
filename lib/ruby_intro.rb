@@ -91,13 +91,13 @@ cdvs
     # def isbn=(value) # 修改
     #     @isbn = valuecsdcdscdsdgit 
     # end
-    # def isbndasadcsdcsdcgitdsefesf
+    # def isbndasadcsdcsdcgitdsefesfds
     #     @isbn
     # end
     # def price=(value) # 修改
     #     @price = value尝试多次
     # end
     # def price # 获取@name
-    #     @price
+    #     @pricevdsdv
     # end
 end
