@@ -84,9 +84,9 @@ class BookInStock
 
     def price_as_stringdasda
         return "$#{'%.2f' % price}"sdfdfsdvsdfcacdscdscdsc
-    vfdvdfvdvcsdcdscdcefrefe呈现出
+    vfdvdfvdvcsdcdscdcefrefe呈现出gfgfdgfd
     attr_accessor :isbncdcdscdshff
-    attr_accessor :pricevdvfdvdfvf
+    attr_accessor :pricevdvfdvdfvfcdscddc
 cdvs
     # def isbn=(value) # 修改
     #     @isbn = valuecsdcdscdsdgit 
@@ -95,7 +95,7 @@ cdvs
     #     @isbn
     # end
     # def price=(value) # 修改
-    #     @price = value
+    #     @price = value尝试多次
     # end
     # def price # 获取@name
     #     @price
