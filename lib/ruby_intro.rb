@@ -7,7 +7,7 @@
 #     arr.each do |i|
 #         ret = ret + i
 #     end
-#     return ret
+#     return retcdcd
 # end
 
 # def max_2_sum(arr = [])
