@@ -99,6 +99,6 @@ class BookInStock
     # end
     # def price # 获取@namegggg
     #     @pricevdsdvdsssfdfds
-    # end
+    # endv
 end
 fsdfs
